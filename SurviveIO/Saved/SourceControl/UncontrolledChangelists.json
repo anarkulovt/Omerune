@@ -14,9 +14,12 @@
 				"C:/Users/anark/Documents/GitHub/Omerune/SurviveIO/Content/SurviveIO/Blueprints/BP_EnemyPawn.uasset",
 				"C:/Users/anark/Documents/GitHub/Omerune/SurviveIO/Content/SurviveIO/Blueprints/AIC_Enemy.uasset",
 				"C:/Users/anark/Documents/GitHub/Omerune/SurviveIO/Content/SurviveIO/Blueprints/Components/BPC_Health.uasset",
-				"C:/Users/anark/Documents/GitHub/Omerune/SurviveIO/Content/SurviveIO/Blueprints/BP_Hero.uasset",
 				"C:/Users/anark/Documents/GitHub/Omerune/SurviveIO/Content/SurviveIO/Blueprints/BP_MainHero.uasset",
 				"C:/Users/anark/Documents/GitHub/Omerune/SurviveIO/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/anark/Documents/GitHub/Omerune/SurviveIO/Content/SurviveIO/Blueprints/BP_EnemySpawner.uasset",
+				"C:/Users/anark/Documents/GitHub/Omerune/SurviveIO/Content/SurviveIO/Blueprints/BP_Spawner.uasset",
+				"C:/Users/anark/Documents/GitHub/Omerune/SurviveIO/Content/SurviveIO/Blueprints/GM_SurviveIO.uasset",
+				"C:/Users/anark/Documents/GitHub/Omerune/SurviveIO/Content/SurviveIO/Blueprints/BP_Hero.uasset",
 				"C:/Users/anark/Documents/GitHub/Omerune/SurviveIO/Content/Input/Actions/IA_Attack.uasset",
 				"C:/Users/anark/Documents/GitHub/Omerune/SurviveIO/Content/Levels/Gameplay.umap"
 			]
