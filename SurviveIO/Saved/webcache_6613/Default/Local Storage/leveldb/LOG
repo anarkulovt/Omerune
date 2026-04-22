@@ -1,3 +1,5 @@
-2026/04/22-13:25:19.591 3d82c Reusing MANIFEST C:\Users\anark\Documents\GitHub\Omerune\SurviveIO\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/22-13:25:19.595 3d82c Recovering log #6
-2026/04/22-13:25:19.596 3d82c Reusing old log C:\Users\anark\Documents\GitHub\Omerune\SurviveIO\Saved\webcache_6613\Default\Local Storage\leveldb/000006.log 
+2026/04/22-15:26:13.881 20b60 Reusing MANIFEST C:\Users\anark\Documents\GitHub\Omerune\SurviveIO\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/22-15:26:13.885 20b60 Recovering log #6
+2026/04/22-15:26:13.885 20b60 Level-0 table #9: started
+2026/04/22-15:26:13.891 20b60 Level-0 table #9: 68416 bytes OK
+2026/04/22-15:26:13.893 20b60 Delete type=0 #6
