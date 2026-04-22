@@ -1,6 +1,8 @@
-[215516:218776:0421/163305.759:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[215516:218804:0421/163305.796:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[215516:218776:0421/163305.805:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[220372:220376:0421/163308.701:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3D186FE7128BBA7B5593AD1ED2266C30 will be ignored
-[215516:210652:0421/163312.539:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[215516:218776:0421/165112.502:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[229792:208228:0422/045155.006:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[229792:233628:0422/045155.047:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[229792:208228:0422/045155.056:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[235860:223688:0422/045158.282:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-696AAFF0FA38DB4FE61F92262D5BC465 will be ignored
+[229792:232712:0422/045201.741:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[229792:208228:0422/061954.742:ERROR:device_event_log_impl.cc(196)] [06:19:54.642] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[236276:230768:0422/062744.112:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[229792:208228:0422/065143.537:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
